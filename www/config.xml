@@ -8,7 +8,7 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>PhoneGap Example</name>
+    <name>Daniel Dilov</name>
 <icon src="icon.png" />
  <icon gap:density="ldpi" gap:platform="android" src="icon.png" />
  <icon gap:density="mdpi" gap:platform="android" src="icon.png" />
